@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+/* 간단 예시, 필요 시 작성 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
