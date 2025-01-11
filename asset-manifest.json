@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kodaerolinkweb/static/css/main.15ea95ab.css",
+    "main.css": "/kodaerolinkweb/static/css/main.948c3e3f.css",
     "main.js": "/kodaerolinkweb/static/js/main.dd6f9888.js",
     "static/js/488.bf45680e.chunk.js": "/kodaerolinkweb/static/js/488.bf45680e.chunk.js",
     "static/media/logo.png": "/kodaerolinkweb/static/media/logo.4e8fcef276903c838963.png",
     "index.html": "/kodaerolinkweb/index.html",
-    "main.15ea95ab.css.map": "/kodaerolinkweb/static/css/main.15ea95ab.css.map",
+    "main.948c3e3f.css.map": "/kodaerolinkweb/static/css/main.948c3e3f.css.map",
     "main.dd6f9888.js.map": "/kodaerolinkweb/static/js/main.dd6f9888.js.map",
     "488.bf45680e.chunk.js.map": "/kodaerolinkweb/static/js/488.bf45680e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15ea95ab.css",
+    "static/css/main.948c3e3f.css",
     "static/js/main.dd6f9888.js"
   ]
 }
