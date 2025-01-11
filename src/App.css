@@ -40,7 +40,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #fff0f0; /* 혹은 #FFEDED, #FFF2F2 등 */
+  background-color: #fcf7f6; /* 혹은 #FFEDED, #FFF2F2 등 */
   background-image: url("images/logo.png");
   background-repeat: no-repeat;
   background-position: left bottom;
