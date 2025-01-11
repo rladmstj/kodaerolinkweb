@@ -43,22 +43,8 @@ body {
   background-color: #fcf7f6; /* 혹은 #FFEDED, #FFF2F2 등 */
   background-image: url("images/logo.png");
   background-repeat: no-repeat;
-  background-position: left bottom;
+  background-position: left top;
   /* background-size: auto; */
-  background-size: 80px auto;
-}
-
-h1 {
-  color: #333;
-}
-.my-button {
-  display: inline-block;
-  margin: 10px;
-  padding: 12px 18px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #ff5722; /* 원하는 기본 색상 */
-  border-radius: 5px;
-  font-size: 1rem;
-  transition: background 0.3s;
+  /* background-size: 300px auto; */
+  background-size: 50%;
 }
