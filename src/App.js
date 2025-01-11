@@ -6,7 +6,10 @@ function App() {
     <div style={{ textAlign: "center", padding: "40px" }}>
       <header>
         <h1>고대로 앱 다운로드</h1>
-        <p>React로 만든 간단한 다운로드 페이지입니다.</p>
+        <p>
+          <b>고대로</b>는 고려대학교 소프트웨어 개발학회 DevKor의 8명의 학회원이
+          함께 만든 <b>고려대학교 실내외 통합 지도 애플리케이션</b>입니다.
+        </p>
       </header>
 
       <main>
