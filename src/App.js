@@ -42,12 +42,23 @@ function App() {
           </p>
           <a
             href=" https://m.onestore.co.kr/mobilepoc/etc/marketDownloadGuide.omp"
+            // https://www.instagram.com/kodaero_ku?igsh=bXJzM2F2dnY4N3M4&utm_source=qr
             target="_blank"
             rel="noopener noreferrer"
             style={linkStyle}
           >
             원스토어 설치
           </a>
+          <p>
+            문의:{" "}
+            <a
+              href="https://www.instagram.com/kodaero_ku?igsh=bXJzM2F2dnY4N3M4&utm_source=qr"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              고대로 인스타그램
+            </a>
+          </p>
 
           {/* 필요 시 플레이스토어 링크도 추가 */}
         </section>
